@@ -1,5 +1,5 @@
 # my-first-action
-This is my first action.
+This is my first action...
 
 ```
 workflow "New workflow" {
